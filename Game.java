@@ -5,6 +5,6 @@ public class Game {
         
     }
     public void Sosal(){
-        
+        System.out.println("asassasasaa");
     }
 }
